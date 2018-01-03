@@ -1,0 +1,54 @@
+﻿@model MisGastos.Models.Gasto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Gasto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Monto)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Monto)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Dia)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Dia)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Mes)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Mes)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Anio)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Anio)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Categoria)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

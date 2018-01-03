@@ -1,0 +1,11 @@
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\bin\Debug\netcoreapp2.0\MisGastos.deps.json
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\bin\Debug\netcoreapp2.0\MisGastos.runtimeconfig.json
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\bin\Debug\netcoreapp2.0\MisGastos.runtimeconfig.dev.json
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\bin\Debug\netcoreapp2.0\MisGastos.dll
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\obj\Debug\netcoreapp2.0\MisGastos.csprojResolveAssemblyReference.cache
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\obj\Debug\netcoreapp2.0\MisGastos.csproj.CoreCompileInputs.cache
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\obj\Debug\netcoreapp2.0\MisGastos.AssemblyInfoInputs.cache
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\obj\Debug\netcoreapp2.0\MisGastos.AssemblyInfo.cs
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\bin\Debug\netcoreapp2.0\MisGastos.pdb
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\obj\Debug\netcoreapp2.0\MisGastos.dll
+D:\Carpetutus\Repositories\C Sharp basics\MisGastos\MisGastos\obj\Debug\netcoreapp2.0\MisGastos.pdb
